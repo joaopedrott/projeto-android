@@ -90,6 +90,9 @@ main a {
     color: var(--cor5);
     background-color: var(--cor1);
 }
+main img {
+    width: 100%;
+}
 a.externo::after {
     content: '\00A0\1F517';
 }
