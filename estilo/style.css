@@ -73,22 +73,17 @@ nav > a:hover {
 
 
 main {
-    /*responsividade*/
-    
-    
-    min-width: 300px;
-    max-width: 1000px;
-    /*responsividade*/
-    
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 320px;
+    max-width: 800px;
+    margin-top: 0px;
     margin-bottom: 20px;
-    
     box-shadow: 4px 4px 9px 0px rgba(0, 0, 0, 0.384);
     padding: 20px;
     border-end-end-radius: 10px;
     border-end-start-radius: 10px;
     background-color: white;
-    display: block;
 }
 main a {
     text-decoration: none;
