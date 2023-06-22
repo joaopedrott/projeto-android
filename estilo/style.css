@@ -87,6 +87,7 @@ main {
     border-end-end-radius: 10px;
     border-end-start-radius: 10px;
     background-color: white;
+    display: block;
 }
 main a {
     text-decoration: none;
@@ -117,7 +118,7 @@ main h2 {
     font-weight: normal;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 5px;
-
+    
 }
 div.video{
     background-color: var(--cor5);
