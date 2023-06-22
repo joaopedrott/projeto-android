@@ -90,9 +90,7 @@ main a {
     color: var(--cor5);
     background-color: var(--cor1);
 }
-main img {
-    width: 100%;
-}
+
 a.externo::after {
     content: '\00A0\1F517';
 }
@@ -117,6 +115,9 @@ main h2 {
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 5px;
     
+}
+main img {
+    width: 100%;
 }
 div.video{
     background-color: var(--cor5);
