@@ -73,9 +73,10 @@ nav > a:hover {
 
 
 main {
-
+/*Responsividade*/
     min-width: 300px;
     max-width: 1000px;
+/*Responsividade*/
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
